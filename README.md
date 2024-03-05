@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m a solution architect focusing on cloud native development and application modernization. I'm currently helping customers achieve their best on Azure at Microsoft as a Technical Specialist. On my free time I dabble in open source, playing bass, writing, and watercolor (I'm pretty bad, but it relaxes me 🌱). I love being an advocate for technology that I love, either doing public presentations or writing about them.
+- 🔭 I’m a solution architect focusing on cloud native development and application modernization. On my free time I dabble in open source, playing bass, writing, and watercolor (I'm pretty bad, but it relaxes me 🌱). I love being an advocate for technology that I love, either doing public presentations or writing about them.
 - 💬 Ask me about: cloud native development, distributed applications, integration services, microservices.
+
+![RochaBR's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochabr)
+
 
 ## Portfolio
 
