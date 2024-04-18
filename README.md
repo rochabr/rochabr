@@ -10,9 +10,6 @@
 
 Curation of blog posts, articles, whitepapers, and videos of public presentations.
 
-<p align="left">
-    <img width="500" src="https://github.com/rochabr/portfolio/assets/1051195/f16e4444-6e18-41aa-8920-aedadcc25268" alt="Fernando at the re:Invent stage" style="max-width: 50%;">
-</p>
 
 ### Whitepapers
 -----
