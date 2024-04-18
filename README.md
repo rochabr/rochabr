@@ -57,6 +57,18 @@ This article was written by Fernando Rocha Silva and Panna Shetty Emergency mana
 ### Technical public presentations
 -----
 
+#### Dapr community call
+
+Dapr OSS monthly community call. April 2024.
+
+[Watch the video here!](https://www.youtube.com/watch?v=YatWKC9oZFA&t=853s)
+
+#### Kickstart Your Dapr Development on Kubernetes with Conductor Free
+
+Conductor Free is the easiest way for Dapr developers to visualize, troubleshoot, and optimize their Dapr applications running on Kubernetes. In this webinar, the Diagrid customer success team demonstrates the capabilities available in this no-cost solution, available now!
+
+[Watch the video here!](https://www.youtube.com/watch?v=aVBPvOjD9pQ&t=1069s)
+
 #### Automate API deployments with APIOps - Vancouver DevOps Meetup
 
 APIOps is a set of practices that aims to streamline the development, management, and maintenance of APIs. It combines the principles of DevOps, Agile, and API design to optimize the API lifecycle and enhance collaboration between development, operations, and business teams. We learned about its core principles, tools, and best practices for streamlining the API lifecycle. 
