@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a solution architect focusing on cloud native development and application modernization. On my free time I dabble in open source, playing bass, writing, and watercolor (I'm pretty bad, but it relaxes me 🌱). I love being an advocate for technology, either doing public presentations or writing about it.
+- 🔭 Customer Success Engineer @ [diagrid.io](https://diagrid.io).
 - 💬 Ask me about: cloud native development, distributed applications, integration services, microservices.
 
 ![RochaBR's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochabr)
