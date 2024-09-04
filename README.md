@@ -6,6 +6,9 @@
 ![RochaBR's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochabr)
 
 
+[![@rochabr's Holopin board](https://holopin.me/rochabr)](https://holopin.io/@rochabr)
+
+
 ## Portfolio
 
 Curation of blog posts, articles, whitepapers, and videos of public presentations.
