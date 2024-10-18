@@ -27,7 +27,7 @@ Amplify DataStore is a persistent on-device storage repository for developers to
 ### Blog Posts
 -----
 
-#### Dapr and Service Meshes - Better Together
+#### Dapr and Service Meshes - Better Together | Diagrid
 
 Kubernetes is a great platform for distributed applications. The challenges that come with portability and flexibility can be solved by using both Service Meshes and Dapr to make your architecture robust, resilient, and secure. In some cases, where you require capabilities that are unique to both, you will find it useful to leverage both Dapr alongside a Service Mesh, or you might find that the security, observability and resiliency features of Dapr alone are enough.
 
