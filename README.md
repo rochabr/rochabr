@@ -131,3 +131,10 @@ Organizations are building location-based applications across myriad use cases, 
 AWS Amplify DataStore on Flutter. Presentation and demo.
 
 [Watch the video here!](https://www.youtube.com/watch?v=GD1ObqC-6Qg)
+
+### Open Source contributions
+-----
+
+- [Dapr Quickstarts](https://github.com/dapr/quickstarts)
+- [Dapr Docs](https://github.com/dapr/docs)
+- [Dapr Go SDK](https://github.com/dapr/go-sdk)
