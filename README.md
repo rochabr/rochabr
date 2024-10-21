@@ -11,8 +11,7 @@
 
 ## Portfolio
 
-Curation of blog posts, articles, whitepapers, and videos of public presentations.
-
+Curation of articles, whitepapers, open source contributions, workshops, and videos of public presentations.
 
 ### Whitepapers
 -----
@@ -138,3 +137,12 @@ AWS Amplify DataStore on Flutter. Presentation and demo.
 - [Dapr Quickstarts](https://github.com/dapr/quickstarts)
 - [Dapr Docs](https://github.com/dapr/docs)
 - [Dapr Go SDK](https://github.com/dapr/go-sdk)
+
+###  Workshops
+-----
+
+#### DaprWorkshop - KubeCon 2024
+
+Dapr Workshop created for KubeCon 2024 in Salt Lake City.
+
+[Workshop](https://github.com/diagrid-labs/dapr-workshop)
