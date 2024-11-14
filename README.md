@@ -66,6 +66,13 @@ This article was written by Fernando Rocha Silva and Panna Shetty Emergency mana
 ### Technical public presentations
 -----
 
+#### API World 2024
+
+Catalyst - Powerful APIs for building microservices
+
+Slides: [Catalyst API World 2024](/slides/Catalyst-API-World-2024.pdf)
+Watch the video here! Coming soon!
+
 #### Dapr community call
 
 Dapr OSS monthly community call. April 2024.
