@@ -54,7 +54,7 @@ Curation of articles, whitepapers, open source contributions, workshops, and vid
 ### 🛠️ Workshops
 -----
 
-[DaprWorkshop - KubeCon 2024](https://github.com/diagrid-labs/dapr-workshop)
+- [DaprWorkshop - KubeCon 2024](https://github.com/diagrid-labs/dapr-workshop)
 
 
 ### 📈 Stats
