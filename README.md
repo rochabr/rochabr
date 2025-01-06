@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Fernando. I'm a 🔭 Customer Success Engineer @ [diagrid.io](https://diagrid.io) with a passion for getting sthings done.
+My name is Fernando. I'm a Customer Success Engineer @ [diagrid.io](https://diagrid.io) with a passion for getting things done.
 
 - 💬 Ask me about: cloud native development, distributed applications, integration services, microservices.
 
