@@ -49,6 +49,7 @@ Curation of articles, whitepapers, open source contributions, workshops, and vid
 
 - [Dapr Quickstarts](https://github.com/dapr/quickstarts)
 - [Dapr Docs](https://github.com/dapr/docs)
+- [Dapr Samples](https://github.com/dapr/samples)
 
 ### 🛠️ Workshops
 -----
