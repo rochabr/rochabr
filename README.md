@@ -19,7 +19,7 @@ Curation of articles, whitepapers, open source contributions, workshops, and vid
 
 ### 📘 Blog Posts
 -----
-
+- [Dapr meets GitOps: A Guide to Dapr and Argo CD](https://www.diagrid.io/blog/dapr-meets-gitops-a-guide-to-dapr-and-argo-cd)
 - [Dapr and Service Meshes - Better Together](https://www.diagrid.io/blog/dapr-service-mesh-what-are-they-how-do-they-complement-each-other-for-distributed-apps)
 - [Enrich your location data with Azure Maps](https://techcommunity.microsoft.com/t5/azure-maps-blog/enrich-your-location-data-with-azure-maps/ba-p/3764851)
 - [Best practices: Securing your Amazon Location Service resources](https://aws.amazon.com/blogs/security/best-practices-securing-your-amazon-location-service-resources/)
