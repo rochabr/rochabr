@@ -1,12 +1,3 @@
-### Hi there 👋
-
-My name is Fernando. I'm a Customer Success Engineer @ [diagrid.io](https://diagrid.io) with a passion for getting things done.
-
-- 💬 Ask me about: cloud native development, distributed applications, integration services, microservices.
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandorochas/)](https://www.linkedin.com/in/fernandorochas/)
-[![Bluesky Badge](https://img.shields.io/badge/-Bluesky-0285FF?style=flat-square&labelColor=0285FF&logo=bluesky&logoColor=white&link=https://bsky.app/profile/rochabr.bsky.social)](https://bsky.app/profile/rochabr.bsky.social)
-
 ## Portfolio
 
 Curation of articles, whitepapers, open source contributions, workshops, and videos of public presentations.
